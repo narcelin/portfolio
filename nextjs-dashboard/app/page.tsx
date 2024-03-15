@@ -51,3 +51,8 @@ export default function Page() {
     </main>
   );
 }
+
+/**
+ * @NOTES
+ * page.tsx is a special next.js file that is used as the "index" of that folder. So if we have /app/dashboard/page.tsx then to access that windown on a browser the address would be /dashboard
+ */
